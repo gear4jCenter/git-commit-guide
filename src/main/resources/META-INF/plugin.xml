@@ -1,0 +1,18 @@
+<idea-plugin>
+    <id>git-commit-guide-idea-plugin</id>
+    <name>Git Commit Guide</name>
+    <vendor email="gclmit@163.com" url="https://github.com/gclm">gclm</vendor>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.vcs</depends>
+
+    <actions>
+        <action id="gitCommitGuideAction" class="club.gclmit.plugin.idea.gcg.action.GitCommitGuideAction"
+                text="Git Commit Guide" icon="/icons/logo.svg">
+            <add-to-group group-id="Vcs.MessageActionGroup" anchor="first"/>
+        </action>
+    </actions>
+
+</idea-plugin>
