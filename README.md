@@ -1,5 +1,8 @@
 # Git-Commit-guide
 
+> The plugin is no longer maintained, please use the new version
+> plugin [Gitfox](https://plugins.jetbrains.com/plugin/19448-gitfox)
+
 &emsp;&emsp;This plugin provides an easy solution for using Gitmoji. Git-Commit-Guide solves the hassle of searching
 through the gitmoji list. Includes a bunch of options you can play with &emsp;&emsp;This plugin will help you to choose
 and add the gitmoji, via a button in the Commit window, among a predefined list of emoticons coming from reference
