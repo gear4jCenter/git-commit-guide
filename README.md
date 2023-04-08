@@ -1,3 +1,10 @@
+# The plugin is no longer maintained, please use the new version plugin [Gitfox](https://plugins.jetbrains.com/plugin/19448-gitfox)
+
+# 这个插件不在进行更新，请使用最新版插件 [Gitfox](https://plugins.jetbrains.com/plugin/19448-gitfox)
+
+
+
+
 # Git-Commit-guide
 
 > The plugin is no longer maintained, please use the new version
